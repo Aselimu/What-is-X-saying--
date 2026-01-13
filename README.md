@@ -2,7 +2,7 @@
 
 ## Overview
 
-PetLife analyzes vocalizations from babies and pets to understand their emotional states. It uses MFCC feature extraction with CNN classification, then generates natural language interpretations using an LLM.
+Analyzes vocalizations from babies and pets to understand their emotional states. It uses MFCC feature extraction with CNN classification, then generates natural language interpretations using an LLM.
 
 ## Features
 
