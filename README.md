@@ -41,8 +41,8 @@ joblib
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/petlife.git
-cd petlife
+git clone https://github.com/Aselimu/What-is-X-saying--.git
+cd What-is-X-saying--
 pip install numpy librosa scikit-learn tensorflow transformers torch joblib
 ```
 
